@@ -1,0 +1,202 @@
+[
+  {
+    "id": "W1",
+    "type": "Nightdress",
+    "brand": "DreamWear",
+    "color": "Peach",
+    "size": "M",
+    "price": 899,
+    "description": "Peach cotton nightdress with lace neck, designed for all-night comfort and elegance.",
+    "img": "https://via.placeholder.com/300x400?text=Nightdress+Peach"
+  },
+  {
+    "id": "W2",
+    "type": "Pyjama Set",
+    "brand": "CozyTales",
+    "color": "Lavender",
+    "size": "L",
+    "price": 1299,
+    "description": "Soft lavender pyjama set featuring floral printed top and full-length bottoms.",
+    "img": "https://via.placeholder.com/300x400?text=Pyjama+Set+Lavender"
+  },
+  {
+    "id": "W3",
+    "type": "Camisole & Shorts Set",
+    "brand": "SilkSoul",
+    "color": "Rose Pink",
+    "size": "S",
+    "price": 1099,
+    "description": "Elegant satin camisole and shorts with lace trim, perfect for summer nights.",
+    "img": "https://via.placeholder.com/300x400?text=Camisole+Rose+Pink"
+  },
+  {
+    "id": "W4",
+    "type": "Babydoll",
+    "brand": "NightBloom",
+    "color": "Black",
+    "size": "M",
+    "price": 1499,
+    "description": "Sheer black babydoll with adjustable straps and mesh detailing for a romantic feel.",
+    "img": "https://via.placeholder.com/300x400?text=Babydoll+Black"
+  },
+  {
+    "id": "W5",
+    "type": "Satin Robe",
+    "brand": "EveCharm",
+    "color": "Maroon",
+    "size": "Free",
+    "price": 999,
+    "description": "Glossy maroon satin robe with tie-up waist, suitable for layering or lounging.",
+    "img": "https://via.placeholder.com/300x400?text=Satin+Robe+Maroon"
+  },
+  {
+    "id": "W6",
+    "type": "Cotton Night Suit",
+    "brand": "ComfyNest",
+    "color": "Sky Blue",
+    "size": "XL",
+    "price": 1399,
+    "description": "Full-sleeve cotton night suit with minimal print, ideal for everyday comfort.",
+    "img": "https://via.placeholder.com/300x400?text=Cotton+Suit+Sky+Blue"
+  },
+  {
+    "id": "W7",
+    "type": "Kaftan",
+    "brand": "Urban Slumber",
+    "color": "Green",
+    "size": "L",
+    "price": 1199,
+    "description": "Breezy green kaftan with floral prints, ideal for relaxed lounging and sleep.",
+    "img": "https://via.placeholder.com/300x400?text=Kaftan+Green"
+  },
+  {
+    "id": "W8",
+    "type": "Nightgown with Robe",
+    "brand": "FloraDream",
+    "color": "Wine Red",
+    "size": "M",
+    "price": 1899,
+    "description": "Two-piece wine red satin gown with matching robe and lace neckline.",
+    "img": "https://via.placeholder.com/300x400?text=Gown+Robe+Wine+Red"
+  },
+  {
+    "id": "W9",
+    "type": "Sleep Romper",
+    "brand": "SnuggleBae",
+    "color": "Mint",
+    "size": "S",
+    "price": 1199,
+    "description": "Short-sleeve sleep romper in mint with cute prints and elastic waist.",
+    "img": "https://via.placeholder.com/300x400?text=Sleep+Romper+Mint"
+  },
+  {
+    "id": "W10",
+    "type": "Tank Top & Pyjama",
+    "brand": "ZzzLove",
+    "color": "Grey",
+    "size": "L",
+    "price": 1099,
+    "description": "Cotton blend tank top with drawstring pyjama, ideal for summer sleepwear.",
+    "img": "https://via.placeholder.com/300x400?text=Tank+Pyjama+Grey"
+  },
+  {
+    "id": "W11",
+    "type": "Thermal Nightwear",
+    "brand": "WarmGlow",
+    "color": "Navy",
+    "size": "M",
+    "price": 1599,
+    "description": "Fleece-lined thermal set in navy blue, perfect for winter nights.",
+    "img": "https://via.placeholder.com/300x400?text=Thermal+Navy"
+  },
+  {
+    "id": "W12",
+    "type": "Maternity Nightwear",
+    "brand": "Momnights",
+    "color": "Blush",
+    "size": "XL",
+    "price": 1499,
+    "description": "Maternity nightgown with feeding access, made from soft stretch cotton.",
+    "img": "https://via.placeholder.com/300x400?text=Maternity+Blush"
+  },
+  {
+    "id": "W13",
+    "type": "Modal Sleep Dress",
+    "brand": "FeatherSoft",
+    "color": "Coral",
+    "size": "M",
+    "price": 1399,
+    "description": "Lightweight modal sleep dress in coral pink, feels ultra-soft on skin.",
+    "img": "https://via.placeholder.com/300x400?text=Modal+Dress+Coral"
+  },
+  {
+    "id": "W14",
+    "type": "Button-down Nightshirt",
+    "brand": "ChillMode",
+    "color": "White",
+    "size": "L",
+    "price": 1299,
+    "description": "White button-down shirt-style nightwear with chest pocket and collar.",
+    "img": "https://via.placeholder.com/300x400?text=Nightshirt+White"
+  },
+  {
+    "id": "W15",
+    "type": "Nightdress",
+    "brand": "GlowNights",
+    "color": "Purple",
+    "size": "M",
+    "price": 899,
+    "description": "Soft rayon purple nightdress with frill sleeves and relaxed fit.",
+    "img": "https://via.placeholder.com/300x400?text=Nightdress+Purple"
+  },
+  {
+    "id": "W16",
+    "type": "Camisole & Shorts Set",
+    "brand": "VelvetMoon",
+    "color": "Nude",
+    "size": "S",
+    "price": 1099,
+    "description": "Delicate nude satin set with lace detailing and racerback design.",
+    "img": "https://via.placeholder.com/300x400?text=Camisole+Nude"
+  },
+  {
+    "id": "W17",
+    "type": "Kaftan",
+    "brand": "BohoSleep",
+    "color": "Mustard",
+    "size": "Free",
+    "price": 1199,
+    "description": "Flowy mustard kaftan with boho prints and tie-up waist string.",
+    "img": "https://via.placeholder.com/300x400?text=Kaftan+Mustard"
+  },
+  {
+    "id": "W18",
+    "type": "Cotton Night Suit",
+    "brand": "SleepBerry",
+    "color": "Pink",
+    "size": "M",
+    "price": 1399,
+    "description": "Cute cartoon printed cotton suit with notch collar and soft feel.",
+    "img": "https://via.placeholder.com/300x400?text=Cotton+Suit+Pink"
+  },
+  {
+    "id": "W19",
+    "type": "Satin Robe",
+    "brand": "LunaLux",
+    "color": "Champagne",
+    "size": "Free",
+    "price": 1099,
+    "description": "Elegant champagne colored robe with matching belt and half sleeves.",
+    "img": "https://via.placeholder.com/300x400?text=Satin+Robe+Champagne"
+  },
+  {
+    "id": "W20",
+    "type": "Nightgown with Robe",
+    "brand": "MidnightMuse",
+    "color": "Black",
+    "size": "L",
+    "price": 1799,
+    "description": "Two-piece elegant black nightgown and robe with subtle shimmer for a classy bedtime look.",
+    "img": "https://via.placeholder.com/300x400?text=Nightgown+Black"
+  }
+]
