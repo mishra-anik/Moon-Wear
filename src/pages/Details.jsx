@@ -1,10 +1,34 @@
 import { useParams } from "react-router-dom";
+import {toast } from "react-toastify";
 import products from "../asset/products.json";
 import Card from "./Card";
 
 const Details = () => {
 	const { id } = useParams();
+	
 	const product = products.find((item) => item.id === id);
+	const addToCart = (item) => {
+			const cartItems = JSON.parse(localStorage.getItem("cartItems")) || [];
+			cartItems.push(item);
+			localStorage.setItem("cartItems", JSON.stringify(cartItems));
+			toast.success(`${item.type} added to cart!`, {
+				position: "top-center",
+				autoClose: 2000,
+				hideProgressBar: false,
+				closeOnClick: true,
+				pauseOnHover: true,
+				draggable: true,
+				theme: "dark", // or "dark" or "colored"
+				style: {
+					background: "#b388eb",
+					color: "#fff",
+					fontWeight: "600",
+					borderRadius: "8px",
+				},
+			});
+		};
+	
+	
 	return (
 		<div>
 			{product ? (
@@ -32,7 +56,7 @@ const Details = () => {
 						{product.description}
 					</p>
 
-					<button className='bg-gradient-to-r from-[#b388eb] to-[#ffa8b6] text-white px-6 py-3 rounded-full font-semibold shadow-md hover:-translate-y-1 hover:shadow-lg transition'>
+					<button onClick={() => addToCart(product)} className='bg-gradient-to-r from-[#b388eb] to-[#ffa8b6] text-white px-6 py-3 rounded-full font-semibold shadow-md hover:-translate-y-1 hover:shadow-lg transition'>
 						Add to Cart
 					</button>
 				</div>
