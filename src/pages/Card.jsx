@@ -2,11 +2,13 @@ import { Link } from "react-router-dom";
 import products from "../asset/products.json";
 
 import { toast } from "react-toastify";
+import { useDispatch } from "react-redux";
+import { addToCart } from "../reducers/cartSlice";
 const Card = () => {
-	const addToCart = (item) => {
-		const cartItems = JSON.parse(localStorage.getItem("cartItems")) || [];
-		cartItems.push(item);
-		localStorage.setItem("cartItems", JSON.stringify(cartItems));
+	const dispatch = useDispatch();
+
+	const handleAddToCart = (item) => {
+		dispatch(addToCart(item));
 		toast.success(`${item.type} added to cart!`, {
 			position: "top-center",
 			autoClose: 2000,
@@ -14,7 +16,7 @@ const Card = () => {
 			closeOnClick: true,
 			pauseOnHover: true,
 			draggable: true,
-			theme: "dark", // or "dark" or "colored"
+			theme: "dark",
 			style: {
 				background: "#b388eb",
 				color: "#fff",
@@ -23,7 +25,6 @@ const Card = () => {
 			},
 		});
 	};
-
 	return (
 		<div className='product-list rounded-lg grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 p-4 bg-gradient-to-r from-[#ffe0f0] to-[#dbeafe] min-h-screen'>
 			{products.map((item) => (
@@ -45,7 +46,7 @@ const Card = () => {
 						₹{item.price}
 					</p>
 					<button
-						onClick={() => addToCart(item)}
+						onClick={() => handleAddToCart(item)}
 						className='mt-2 w-full bg-pink-500/80 text-white py-1 rounded text-sm hover:bg-pink-600'
 					>
 						Add to Cart
