@@ -2,201 +2,181 @@
   {
     "id": "W1",
     "type": "Nightdress",
-    "brand": "DreamWear",
     "color": "Peach",
     "size": "M",
     "price": 899,
     "description": "Peach cotton nightdress with lace neck, designed for all-night comfort and elegance.",
-    "img": "https://via.placeholder.com/300x400?text=Nightdress+Peach"
+    "img": "https://imgs.search.brave.com/o03gN46sk56-3jugySGBKDOZVgDd7RNGbvGY0694lik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzEyNTc5Mjg0L2Mv/MTczOS8xNzM5LzE0/OC80NDYvaWwvYTRi/ZmJmLzM3NDEzMDk2/MTIvaWxfNjAweDYw/MC4zNzQxMzA5NjEy/X3N0bWkuanBn"
   },
   {
     "id": "W2",
     "type": "Pyjama Set",
-    "brand": "CozyTales",
     "color": "Lavender",
     "size": "L",
     "price": 1299,
     "description": "Soft lavender pyjama set featuring floral printed top and full-length bottoms.",
-    "img": "https://via.placeholder.com/300x400?text=Pyjama+Set+Lavender"
+    "img": "https://imgs.search.brave.com/OE9ONrHTgJB1Cjbec9YRmq1RjUTL1tA3jS6grNhe6pA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jaGVs/c2VhcGVlcnMuY29t/L2Nkbi9zaG9wL2Zp/bGVzL0NXMzIzN1JQ/TE4yMl80LmpwZz92/PTE3Mzg1NzUzNTgm/d2lkdGg9MTk0Ng"
   },
   {
     "id": "W3",
     "type": "Camisole & Shorts Set",
-    "brand": "SilkSoul",
     "color": "Rose Pink",
     "size": "S",
     "price": 1099,
     "description": "Elegant satin camisole and shorts with lace trim, perfect for summer nights.",
-    "img": "https://via.placeholder.com/300x400?text=Camisole+Rose+Pink"
+    "img": "https://imgs.search.brave.com/pI1ROW7ScArA6FVZCC0-NzmFK5H4XrldtVARg_svuOk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzEwNDY5MjM3L2Mv/Njg5LzY4OS8yMTEv/NDU2L2lsLzMzN2E1/OS81Mzk0Mjk5NDgz/L2lsXzYwMHg2MDAu/NTM5NDI5OTQ4M19h/eDV5LmpwZw"
   },
   {
     "id": "W4",
     "type": "Babydoll",
-    "brand": "NightBloom",
     "color": "Black",
     "size": "M",
     "price": 1499,
     "description": "Sheer black babydoll with adjustable straps and mesh detailing for a romantic feel.",
-    "img": "https://via.placeholder.com/300x400?text=Babydoll+Black"
+    "img": "https://imgs.search.brave.com/OfmbKElJ_0fDvtv4QyJGPt0AeqpF1d7URdyLmjbuekA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYW5l/MjAxLmNvbS9jZG4v/c2hvcC9maWxlcy9i/ZDUyMTktYS1ibGFj/ay1lbWJyb2lkZXJl/ZC1sYWNlLWJhYnlk/b2xsLW1pbmktZHJl/c3MtMzcxMjY4MTYz/NjY3NTguanBnP3Y9/MTcwMTIxOTE2NyZ3/aWR0aD0yMzE2"
   },
   {
     "id": "W5",
     "type": "Satin Robe",
-    "brand": "EveCharm",
     "color": "Maroon",
     "size": "Free",
     "price": 999,
     "description": "Glossy maroon satin robe with tie-up waist, suitable for layering or lounging.",
-    "img": "https://via.placeholder.com/300x400?text=Satin+Robe+Maroon"
+    "img": "https://imgs.search.brave.com/SZiqddM-wknmB4Ybs_ILON94M_jRcG3A53LMm_-x-LM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vUEFW/SUxJQS1QbHVzaC1I/b29kZWQtUm9iZS1X/b21lbi1XaW5lLU1h/cm9vbi1GbHVmZnkt/U29mdC1CYXRocm9i/ZS1Ib29kLUZ1enp5/LVdhcm0tU3BhLVJv/YmUtQ296eS1GbGVl/Y2UtTG9uZy1Sb2Jl/LVNhdGluLVRyaW0t/U21hbGwtTWVkaXVt/Xzg2NjgzMjAzLWYx/NDctNGQ2Mi05YjQ5/LTE0MTk2M2Q2NzNh/ZS41YzM4NzdhMWZk/ZTA5MGZhZjBhNGFj/ODMxMDE0NmQ3OC5q/cGVnP29kbkhlaWdo/dD01ODAmb2RuV2lk/dGg9NTgwJm9kbkJn/PUZGRkZGRg"
   },
   {
     "id": "W6",
     "type": "Cotton Night Suit",
-    "brand": "ComfyNest",
     "color": "Sky Blue",
     "size": "XL",
     "price": 1399,
     "description": "Full-sleeve cotton night suit with minimal print, ideal for everyday comfort.",
-    "img": "https://via.placeholder.com/300x400?text=Cotton+Suit+Sky+Blue"
+    "img": "https://imgs.search.brave.com/z_1nJGAWrLrIbTHMEhIhFp-krCfXkyWDpBHeJ8N5Yrw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Fuc2tydXRpaG9t/ZXMuaW4vY2RuL3No/b3AvcHJvZHVjdHMv/QklOVTAxOTcuanBn/P3Y9MTc1MTM3MTQz/NyZ3aWR0aD0yMDAw"
   },
   {
     "id": "W7",
     "type": "Kaftan",
-    "brand": "Urban Slumber",
-    "color": "Green",
+    "color": "Olive Green",
     "size": "L",
     "price": 1199,
-    "description": "Breezy green kaftan with floral prints, ideal for relaxed lounging and sleep.",
-    "img": "https://via.placeholder.com/300x400?text=Kaftan+Green"
+    "description": "Breezy olive green kaftan with floral prints, ideal for relaxed lounging and sleep.",
+    "img": "https://imgs.search.brave.com/SjQ3vt3SJygWnoEyNDQ4HacZW9fnS_JeAX1ocM7EF6U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9qdWxh/bGluZWt3LmNvbS9j/ZG4vc2hvcC9maWxl/cy8yMDEyNzQ2RS1G/RTRGLTQ0OTgtQjY4/MC1EQzdFQUUxQzNC/RTUuanBnP3Y9MTcx/NDEyMzM0MCZ3aWR0/aD02MDA"
   },
   {
     "id": "W8",
-    "type": "Nightgown with Robe",
-    "brand": "FloraDream",
-    "color": "Wine Red",
+    "type": "Cotton Night Suit",
+    "color": "Pink",
     "size": "M",
     "price": 1899,
-    "description": "Two-piece wine red satin gown with matching robe and lace neckline.",
-    "img": "https://via.placeholder.com/300x400?text=Gown+Robe+Wine+Red"
+    "description": "Two-piece pink cotton floral print night suit .",
+    "img": "https://imgs.search.brave.com/PdbIZwiUkGoGWZMcR93yF0jeV2GkHB_xYxxjTDPZdhQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hZG4t/c3RhdGljMS5ueWth/YS5jb20vbnlrZGVz/aWduc3R1ZGlvLWlt/YWdlcy9wdWIvbWVk/aWEvY2F0YWxvZy9w/cm9kdWN0LzAvYS8w/YTlkODI4RElWTkEt/REswMjIwXzEuanBn/P3JuZD0yMDIwMDUy/NjE5NTIwMCZ0cj13/LTI1Ng"
   },
   {
     "id": "W9",
     "type": "Sleep Romper",
-    "brand": "SnuggleBae",
     "color": "Mint",
     "size": "S",
     "price": 1199,
     "description": "Short-sleeve sleep romper in mint with cute prints and elastic waist.",
-    "img": "https://via.placeholder.com/300x400?text=Sleep+Romper+Mint"
+    "img": "https://imgs.search.brave.com/ExL3ihugti_rsSYdSe53R1Mz2sm4NjkZp1tAggoQOyA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXBh/bGVzaG9wLmNvbS9j/ZG4vc2hvcC9maWxl/cy83NTcxLU1pbnQt/RnJvbnQuanBnP2Ny/b3A9cmVnaW9uJmNy/b3BfaGVpZ2h0PTEz/NTkmY3JvcF9sZWZ0/PTAmY3JvcF90b3A9/MiZjcm9wX3dpZHRo/PTkxMSZ2PTE3Mjg5/MTcyNzgmd2lkdGg9/OTEx"
   },
   {
     "id": "W10",
     "type": "Tank Top & Pyjama",
-    "brand": "ZzzLove",
     "color": "Grey",
     "size": "L",
     "price": 1099,
     "description": "Cotton blend tank top with drawstring pyjama, ideal for summer sleepwear.",
-    "img": "https://via.placeholder.com/300x400?text=Tank+Pyjama+Grey"
+    "img": "https://imgs.search.brave.com/Yr_oDUrfflZmPNe1svQKVckmdCUsIE115muP1zKBF1g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGlz/aXNqLmNvbS9jZG4v/c2hvcC9maWxlcy9C/YW1ib28tTG91bmdl/d2Vhci1UYW5rLVRv/cC1IaWdoLVdhaXN0/ZWQtSGFyZW0tUGFu/dC1TZXQtSGVhdGhl/ci1HcmV5LU1heTI0/MjYyODkuanBnP3Y9/MTcxODk5ODI3OSZ3/aWR0aD03MDA"
   },
   {
     "id": "W11",
     "type": "Thermal Nightwear",
-    "brand": "WarmGlow",
     "color": "Navy",
     "size": "M",
     "price": 1599,
     "description": "Fleece-lined thermal set in navy blue, perfect for winter nights.",
-    "img": "https://via.placeholder.com/300x400?text=Thermal+Navy"
+    "img": "https://imgs.search.brave.com/K9fl41UjliarRQYPC3U0Hf15UQyHtygS6u6zvPuQZJc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2h1bXMuY28udWsv/cHJvZGltZy9MSzE3/N19OYXZ5XzFfTWVk/aXVtLmpwZw"
   },
   {
     "id": "W12",
     "type": "Maternity Nightwear",
-    "brand": "Momnights",
-    "color": "Blush",
+    "color": "Blush Pink",
     "size": "XL",
     "price": 1499,
     "description": "Maternity nightgown with feeding access, made from soft stretch cotton.",
-    "img": "https://via.placeholder.com/300x400?text=Maternity+Blush"
+    "img": "https://imgs.search.brave.com/Dr_giDzFrjSVvS8626aD3FJDMUrUHxbD63F8lNUfErk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzIzMDkyOTMwL2Mv/MTM3MS8xMzcxLzAv/MTg3L2lsLzYyN2Ri/YS80ODIzMjI0MDI3/L2lsXzYwMHg2MDAu/NDgyMzIyNDAyN18y/NGllLmpwZw"
   },
   {
     "id": "W13",
     "type": "Modal Sleep Dress",
-    "brand": "FeatherSoft",
     "color": "Coral",
     "size": "M",
     "price": 1399,
     "description": "Lightweight modal sleep dress in coral pink, feels ultra-soft on skin.",
-    "img": "https://via.placeholder.com/300x400?text=Modal+Dress+Coral"
+    "img": "https://imgs.search.brave.com/4Zo7i-g-E96320fci4jKRZVwcxCUeJ7uNpQON5-T_rY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/am9ja2V5LmluL2Nk/bi9zaG9wL3Byb2R1/Y3RzL1JYMjVfQkxV/U0hfMDEwM19TMTIz/X0pLWV82X2M3YjBj/ZTI3LTM5NDAtNDM0/ZC04ZjEyLTJhNWNi/OTUwMGM5ZC53ZWJw/P3Y9MTcwMDAwOTQw/NyZ3aWR0aD00MjA"
   },
   {
     "id": "W14",
     "type": "Button-down Nightshirt",
-    "brand": "ChillMode",
     "color": "White",
     "size": "L",
     "price": 1299,
     "description": "White button-down shirt-style nightwear with chest pocket and collar.",
-    "img": "https://via.placeholder.com/300x400?text=Nightshirt+White"
+    "img": "https://imgs.search.brave.com/mCLBr8T65y_TpabjaBKwtwu1yu1ObzqKJI-kDakLhLw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF6SDhQaUtIT0wu/anBn"
   },
   {
     "id": "W15",
     "type": "Nightdress",
-    "brand": "GlowNights",
     "color": "Purple",
     "size": "M",
     "price": 899,
     "description": "Soft rayon purple nightdress with frill sleeves and relaxed fit.",
-    "img": "https://via.placeholder.com/300x400?text=Nightdress+Purple"
+    "img": "https://imgs.search.brave.com/haamoBfCULlmhMIt3ZAK1wi_xkKlS4WfoYuqiyYFq8E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzE5MTEzMjEyL2Mv/OTA0LzkwNC8xMTgv/MC9pbC9lMTFlMDIv/Mzc3NDM5NTIwMi9p/bF8zMDB4MzAwLjM3/NzQzOTUyMDJfMzli/by5qcGc"
   },
   {
     "id": "W16",
     "type": "Camisole & Shorts Set",
-    "brand": "VelvetMoon",
     "color": "Nude",
     "size": "S",
     "price": 1099,
     "description": "Delicate nude satin set with lace detailing and racerback design.",
-    "img": "https://via.placeholder.com/300x400?text=Camisole+Nude"
+    "img": "https://imgs.search.brave.com/1jsqhGifou-twYLuL74ZHWsQBVNCeAEEzsDoajZwNK4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGxhdGZvcm0ubmV4/dC9jb21tb24vaXRl/bXMvZGVmYXVsdC9k/ZWZhdWx0L2l0ZW1p/bWFnZXMvM180UmF0/aW8vU2VhcmNoVFAv/TGdlL0YxMTI3NS5q/cGc_aW09UmVzaXpl/LHdpZHRoPTQ1MA"
   },
   {
     "id": "W17",
     "type": "Kaftan",
-    "brand": "BohoSleep",
     "color": "Mustard",
     "size": "Free",
     "price": 1199,
     "description": "Flowy mustard kaftan with boho prints and tie-up waist string.",
-    "img": "https://via.placeholder.com/300x400?text=Kaftan+Mustard"
+    "img": "https://imgs.search.brave.com/fIKeaAHRM0cKO2Th2_UKti7qNmG-jkohVEObXldgw58/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2hhaHN0eWxlaW5j/LmNvbS9jZG4vc2hv/cC9maWxlcy8yLjNf/YTg4YWQ0MDEtOWVm/Ny00ZGVjLTk4NmUt/NGY0MTk2YTNiM2Q1/LmpwZz92PTE3Mzk1/MjI1MTQmd2lkdGg9/MzAwMA"
   },
   {
     "id": "W18",
     "type": "Cotton Night Suit",
-    "brand": "SleepBerry",
     "color": "Pink",
     "size": "M",
     "price": 1399,
     "description": "Cute cartoon printed cotton suit with notch collar and soft feel.",
-    "img": "https://via.placeholder.com/300x400?text=Cotton+Suit+Pink"
+    "img": "https://imgs.search.brave.com/FC8RiowU78TYhSROnbqffwZ2959KhrYL23vq19G76NY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Fuc2tydXRpaG9t/ZXMuaW4vY2RuL3No/b3AvcHJvZHVjdHMv/RFNDODAxMi5qcGc_/dj0xNzUyNzY3ODQz/JndpZHRoPTEwMDA"
   },
   {
     "id": "W19",
     "type": "Satin Robe",
-    "brand": "LunaLux",
     "color": "Champagne",
     "size": "Free",
     "price": 1099,
     "description": "Elegant champagne colored robe with matching belt and half sleeves.",
-    "img": "https://via.placeholder.com/300x400?text=Satin+Robe+Champagne"
+    "img": "https://imgs.search.brave.com/-Ik6LAndLXGLjelkWpK5Rh-wIOlWdqYjFvJXr8rVBPw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWlzc3VzLnB0L2Nk/bi9zaG9wL3Byb2R1/Y3RzL0RWUzAwMjQ3/LmpwZz92PTE2NzA0/MzM3ODImd2lkdGg9/MTQ0NQ"
   },
   {
     "id": "W20",
     "type": "Nightgown with Robe",
-    "brand": "MidnightMuse",
     "color": "Black",
     "size": "L",
     "price": 1799,
     "description": "Two-piece elegant black nightgown and robe with subtle shimmer for a classy bedtime look.",
-    "img": "https://via.placeholder.com/300x400?text=Nightgown+Black"
+    "img": "https://imgs.search.brave.com/o0tW843NFiK4Zyj32qB-CsfkFH76wV8Bn5ehLsz_DIU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzUxNzgzMjUwL3Iv/aWwvY2QwNWZlLzY5/MTE0NDEzNTcvaWxf/MzAweDMwMC42OTEx/NDQxMzU3X2J4eGou/anBn"
   }
 ]
